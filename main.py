@@ -11,6 +11,7 @@ print("4. Find single mutation position (enter 4)")
 print("5. Translate the sequence (enter 5)")
 print("6. Check genes expression (enter 6)")
 print("7. Create PCR project (enter 7)")
+print("8. :) (enter 8)")
 
 numProgram = input("Choose your programme (enter number): ")
 
