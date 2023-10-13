@@ -9,6 +9,8 @@ print("2. Seq_complement (enter 2)")
 print("3. Seq_reverse_complement (enter 3)")
 print("4. Find single mutation position (enter 4)")
 print("5. Translate the sequence (enter 5)")
+print("6. Check genes expression (enter 6)")
+print("7. Create PCR project (enter 7)")
 
 numProgram = input("Choose your programme (enter number): ")
 
